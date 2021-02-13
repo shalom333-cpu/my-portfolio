@@ -60,3 +60,12 @@ h1{
   color: #fff;
   text-align: center;
 }
+#About p{
+  background-color: grey;
+  width: 400px;
+  border: 30px solid rgb(146, 102, 44);
+  padding: 50px;
+  margin: 25px;
+  float: left;
+  font-family: fantasy;
+}
