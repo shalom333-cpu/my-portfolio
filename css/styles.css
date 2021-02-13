@@ -30,3 +30,22 @@ a{
   text-transform: uppercase;
   font-weight: bold;
 }
+#section1{
+  height: 500px;
+  display: inline-block;
+  width: 100%;
+  background-image: url(../images/myimage1.jpg);
+  background-size: cover;
+}
+#section1{
+  height: 750px;
+  background-color: darkgrey;
+  display: inline-block;
+  width: 100%;
+}
+#section1{
+  height: 750px;
+  background-color: wheat;
+  display: inline-block;
+  width: 100%;
+}
