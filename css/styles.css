@@ -4,14 +4,14 @@ html{
 body{
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: arial;
 }
 nav{
   width: 100%;
-  background-color: rgb(19, 18, 18);
+  background-color: #262626;
   overflow: hidden;
   position: fixed;
-  top: 0;
+  top: 0; 
 }
 ul{
   padding: 0;
@@ -22,7 +22,7 @@ li{
   float: left;
 }
 a{
-  padding: 20px;
+  padding: 20px; 
   width: 100px;
   display: block;
   text-decoration: none;
@@ -30,21 +30,21 @@ a{
   text-transform: uppercase;
   font-weight: bold;
 }
-#section1{
+#Home{
   height: 700px;
-  background-color: thistle;
+  background-position: top center;
   display: inline-block;
   width: 100%;
 }
-#section2{
+#About{
   height: 700px;
-  background-color: darkgrey;
+  background: burlywood;
   display: inline-block;
   width: 100%;
 }
-#section3{
+#Projects{
   height: 700px;
-  background-color: wheat;
+  background: oldlace;
   display: inline-block;
   width: 100%;
 }
