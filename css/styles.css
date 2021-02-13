@@ -32,7 +32,8 @@ a{
 }
 #Home{
   height: 700px;
-  background-position: top center;
+  background-image: url(../images/myimage1.jpg);
+  background-size: cover;
   display: inline-block;
   width: 100%;
 }
