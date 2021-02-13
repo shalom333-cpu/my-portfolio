@@ -20,5 +20,13 @@ ul{
 }
 li{
   float: left;
-  
+}
+a{
+  padding: 20px;
+  width: 100px;
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
 }
