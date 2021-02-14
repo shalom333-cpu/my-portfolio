@@ -12,9 +12,9 @@ To view this webpage and my projects, all you need is a stable internet connecti
 
 Suppport & Contact Details
 Incase of anything concerning this site or the projects linked to it, you can contact me on;
-<li>1.Email</li>
-<li>2.Instagarm</li>
-<li>3.Twitter</li>
+<li>Email: elishaolimbas@gmail.com</li>
+<li>Instagarm: @shalomelijah</li>
+<li>Twitter: @shalomelijah</li>
 
  <h2>License</h2>
  This site is supported by MIT License.
