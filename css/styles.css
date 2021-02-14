@@ -68,11 +68,11 @@ h2{
   text-align: center;
 }
 #About p{
-  background-color: grey;
-  width: 400px;
+  background-color: white;
+  width: 300px;
   border: 30px solid rgb(146, 102, 44);
-  padding: 50px;
-  margin: 25px;
+  padding: 25px;
+  margin: 15px;
   float: left;
   font-family: fantasy;
 }
@@ -89,4 +89,10 @@ h2{
   margin: 25px;
   line-height: normal;
   font-family: sans-serif;
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    body {
+        background-color: white;
+        color: grey;
+    }
 }
