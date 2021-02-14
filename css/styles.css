@@ -85,3 +85,8 @@ h2{
   width: 0;
   font-weight: normal;
 }
+#Projects p{
+  margin: 25px;
+  line-height: normal;
+  font-family: sans-serif;
+}
